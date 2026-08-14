@@ -2,7 +2,7 @@
 # Facial-Feature-Extraction-and-GAN-Based-Encryption-for-Securing-Medical-X-ray-Data
 
 
-<img width="717" height="242" alt="Screenshot 2026-08-14 062252" src="https://github.com/user-attachments/assets/96980b73-4f21-41e6-a0a2-0ae8312e6f1a" />
+<img width="1000" height="242" alt="Screenshot 2026-08-14 062252" src="https://github.com/user-attachments/assets/96980b73-4f21-41e6-a0a2-0ae8312e6f1a" />
 
 Extracted facial features from the UTKFace dataset using a CNN autoencoder and generated encryption keys using a GAN-based key generation pipeline. Combined the generated biometric keys with MURA hand X-ray images to create encrypted medical-image representations, enhancing security and privacy of medical data.
 
